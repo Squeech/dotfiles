@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = dimitri.mastrantonis@hotmail.com
+	name = Dimitri Mastrantonis
